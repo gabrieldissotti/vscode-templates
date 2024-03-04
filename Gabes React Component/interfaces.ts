@@ -1,3 +1,3 @@
-export interface [FTName]Props = {
+export interface [FTName]Props {
   
 }
