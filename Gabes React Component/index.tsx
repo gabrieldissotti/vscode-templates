@@ -2,10 +2,10 @@ import React from 'react';
 
 import { [FTName]Props } from './interfaces';
 
-const [FTName]: React.FC<[FTName]Props> = ({ children }) => {
+const [FTName]: React.FC<[FTName]Props> = () => {
   return (
     <>
-      { children }
+      
     </>
   );
 }
