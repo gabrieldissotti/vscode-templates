@@ -1,5 +1,5 @@
 import React from 'react';
 
-export type {__name__}Props = {
+export type [FTName]Props = {
   children: React.ReactElement;
 }
