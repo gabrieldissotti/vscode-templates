@@ -1,13 +1,9 @@
-import React from 'react';
-
 import { [FTName]Props } from './interfaces';
 
-const [FTName]: React.FC<[FTName]Props> = () => {
+export function [FTName]({}: [FTName]Props) {
   return (
     <>
       
     </>
   );
 }
-
-export default [FTName];
